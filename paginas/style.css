@@ -1,0 +1,11 @@
+
+    .horizontal{
+        display: flex;
+        list-style-position: inside;
+    
+     .horizontal li {
+        margin-right: 10px;
+    }
+
+
+}
